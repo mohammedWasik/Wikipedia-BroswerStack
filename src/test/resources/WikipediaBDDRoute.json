@@ -1,0 +1,8 @@
+{
+  "protocol": "https",
+  "domain": "wikipedia.org",
+  "wait": 5000,
+  "downloadedFile": "Albert_Einstein.pdf",
+  "name": "Albert Einstein",
+  "language": "es"
+}

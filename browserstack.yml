@@ -1,0 +1,11 @@
+userName: ...
+accessKey: ...
+platforms:
+  - os: Windows
+    osVersion: 10
+    browserName: Chrome
+    browserVersion: latest
+
+browserstackLocal: true
+buildName: wikipedia.bdd-build-1
+projectName: wikipedia.bdd
